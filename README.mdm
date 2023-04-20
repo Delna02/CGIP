@@ -1,0 +1,4 @@
+In shearing in x-direction, the y co-ordinates remain the same but the x co-ordinates changes.
+If P(x, y) is the point then the new points after applying shear factor(sh_x) is P’(x’, y’) given as –
+x'=x+Sh_x*y
+y'=y 
